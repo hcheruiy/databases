@@ -1,6 +1,5 @@
 
-+ Project originally posted on [inertia7](https://www.inertia7.com/projects/95)
-+ [GitHub Repo](https://github.com/raviolli77/machineLearning_breastCancer_Python)
++ [GitHub Repo](https://github.com/hcheruiy/Classification_Breast_Cancer)
 
 # Introduction to Random Forest
 
